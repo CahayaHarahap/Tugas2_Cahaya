@@ -1,0 +1,16 @@
+{
+    "name": "user/tugas-2",
+    "description": "Tugas 2 - Nurcahaya Harahap",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\" : "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nur - 0702193158"
+        }
+    ],
+    "require": {}
+}
